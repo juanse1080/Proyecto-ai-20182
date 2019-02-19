@@ -9,6 +9,13 @@
 Este proyecto se realiza con la finalidad de construir un modelo que discrime la autenticidad de una firma.
 Para esto trabajaremos con un dataser llamado handwritten-signatures, este contiene 5 firmas reales y 5 false de 30 personas.
 
+## Problematica
+La firma tiene por fin identificar, asegurar o autentificar la identidad de un autor o remitente, o como una prueba del consentimiento y de verificación de la integridad y aprobación de la información contenida en un documento o similar, y que tiene carácter legal. Falsificar una firma es un delito en la mayoría de los códigos penales del mundo.
+
+La problemática surge cuando una persona intenta imitar la firma de otra persona con el fin de suplantar su identidad.
+
+¿Cómo se verifica la autenticidad de la firma?
+
 ## Objetivos
 
 ### Objetivos generales
